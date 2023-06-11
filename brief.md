@@ -9,6 +9,7 @@ La plataforma web va a abordar esta problemática brindando el alojamiento de lo
 
 4- MVP
 Integrar a la plataforma de E-commers una Landing Web donde se Explique se alguna manera la intencion del proyecto (que ofrecemos, cual problema solucionamos etc).
+
 4.2-MVP
 Dividiendo el proyecto en 2 partes, como primer medida, la plataforma de e-commerce está casi terminada (faltan detalles mínimos). La plataforma tiene que tener un gestor de los diseños (una base de datos de los diseños) y esos diseños se tendrían que visualizar en el e-commerce.
 
